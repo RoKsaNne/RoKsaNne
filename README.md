@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  🧪 Engaged in research related to **Single-cell genomic** modeling and **Electronic health record (EHR)** modeling.
+  🧪 Engaged in research related to <strong>Single-cell genomic<strong> modeling and <strong>Electronic health record (EHR)<strong> modeling.
 </p>
 
 <p align="center">
