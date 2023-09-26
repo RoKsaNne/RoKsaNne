@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  🧪 Engaged in research related to <strong>Single-cell genomic<strong> modeling and <strong>Electronic health record (EHR)<strong> modeling.
+  🧪 Engaged in research related to <strong>Single-cell genomic</strong> modeling and <strong>Electronic health record (EHR)</strong> modeling.
 </p>
 
 <p align="center">
@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  ⚡ Fun fact: ...
+  🌙 Fun fact: Can't live without coffee？？
 </p>
