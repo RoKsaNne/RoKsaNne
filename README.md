@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://roksanne.github.io/">Ruohan (Roxanne) Wang</a>. 👋 </h1>
 
-<!--
-**RoKsaNne/RoKsaNne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="www.linkedin.com/in/ruohan-wang-roksanne">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ruohan--wang-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:ruohan.wang4@mail.mcgill.ca">
+    <img alt="Email" src="https://img.shields.io/badge/Email-ruohan.wang4%40mail.mcgill.ca-green?style=flat-square&logo=gmail">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🦋 Pursuing an honors bachelor of <strong>Computer Science</strong> and a minor in <strong>Mathematics</strong> at McGill University.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🧪 Engaged in research related to **Single-cell genomic** modeling and **Electronic health record (EHR)** modeling.
+</p>
+
+<p align="center">
+  👟 Enthusiastic about working out 💪, running 🏃‍♀️, snowboarding 🏂, hiking 🧗‍♀️, and more!
+</p>
+
+<p align="center">
+  ⚡ Fun fact: ...
+</p>
