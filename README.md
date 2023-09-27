@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🦋 Pursuing abachelor of <strong>Computer Science</strong> and a minor in <strong>Mathematics</strong> at McGill University.
+  🦋 Pursuing an honors bachelor of <strong>Computer Science</strong> and a minor in <strong>Mathematics</strong> at McGill University.
 </p>
 
 <p align="center">
