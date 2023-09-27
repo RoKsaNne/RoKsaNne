@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://roksanne.github.io/">Ruohan (Roxanne) Wang</a>. 👋 </h1>
 
 <p align="center">
-  <a ref="www.linkedin.com/in/ruohan-wang-roksanne">
+  <a href="www.linkedin.com/in/ruohan-wang-roksanne">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ruohan--wang-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="mailto:ruohan.wang4@mail.mcgill.ca">
