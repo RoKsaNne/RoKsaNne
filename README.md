@@ -14,16 +14,16 @@
 </p>
 
 <p align="center">
-  🧪 Engaged in research related to <strong>Single-cell genomic</strong> modeling and <strong>Electronic health record (EHR)</strong> modeling.
+  🧬 Engaged in research related to <strong>Single-cell genomic</strong> modeling and <strong>Electronic health record (EHR)</strong> modeling.
 </p>
 
 <p align="center">
-  👟 Enthusiastic about working out 💪, running 🏃‍♀️, snowboarding 🏂, hiking 🧗‍♀️, and more!
+  🏋️‍♀️ Passionate about fitness, running, snowboarding, and hiking, and more!
 </p>
 <p align="center">
-  💿 Addicted to movies and alt-pop/rock music
+  💿 A film buff with a love for alt-pop/rock music
 </p>
 
 <p align="center">
-  🌙 Fun fact: Can't live without Coffee？？A part time vlogger about daily life🤫
+  🌙 Fun Fact: Can't imagine a day without coffee??? Also, a part-time vlogger about daily life. 🤫
 </p>
