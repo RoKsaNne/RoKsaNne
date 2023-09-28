@@ -20,7 +20,10 @@
 <p align="center">
   👟 Enthusiastic about working out 💪, running 🏃‍♀️, snowboarding 🏂, hiking 🧗‍♀️, and more!
 </p>
+<p align="center">
+  💿 Addicted to movies and alt-pop/rock music
+</p>
 
 <p align="center">
-  🌙 Fun fact: Can't live without coffee？？
+  🌙 Fun fact: Can't live without Coffee？？A part time vlogger about daily life🤫
 </p>
