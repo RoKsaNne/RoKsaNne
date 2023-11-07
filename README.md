@@ -18,12 +18,12 @@
 </p>
 
 <p align="center">
-  🏋️‍♀️ Passionate about fitness, running, snowboarding, and hiking, and more!
+  🏋️‍♀️ Passionate about fitness, running, snowboarding, hiking, and more!
 </p>
 <p align="center">
   💿 A film buff with a love for alt-pop/rock music
 </p>
 
 <p align="center">
-  🌙 Fun Fact: Can't imagine a day without coffee??? Also, a part-time vlogger about daily life. 🤫
+  🌙 Fun Fact: My blood contains more caffeine than an Iced Americano??? Also, a part-time vlogger. 🤫
 </p>
