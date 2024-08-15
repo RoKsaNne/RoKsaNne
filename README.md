@@ -4,7 +4,7 @@
   <a href="www.linkedin.com/in/ruohan-wang-roksanne">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ruohan--wang-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="mailto:ruohan.wang4@mail.mcgill.ca">
+  <a href="mailto:ruohan_wang@brown.edu">
     <img alt="Email" src="https://img.shields.io/badge/Email-ruohan_wang%40brown.edu-green?style=flat-square&logo=gmail">
   </a>
 </p>
