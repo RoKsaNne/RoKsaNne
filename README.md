@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  🦋 1st year PhD student @ BrownU in Computational Biology(CCMB)
+  🦋 1st year PhD student @ BrownU in Computational Biology(CCMB) 
+</p>
+<p align="center">
   🦋 Obtained an honors bachelor of <strong>Computer Science</strong> and a minor in <strong>Mathematics</strong> at McGill University.
 </p>
 
