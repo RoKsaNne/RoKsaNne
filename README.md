@@ -10,11 +10,12 @@
 </p>
 
 <p align="center">
-  🦋 Pursuing an honors bachelor of <strong>Computer Science</strong> and a minor in <strong>Mathematics</strong> at McGill University.
+  🦋 1st year PhD student @ BrownU in Computational Biology(CCMB)
+  🦋 Obtained an honors bachelor of <strong>Computer Science</strong> and a minor in <strong>Mathematics</strong> at McGill University.
 </p>
 
 <p align="center">
-  🧬 Engaged in research related to <strong>Single-cell genomic</strong> modeling and <strong>Electronic health record (EHR)</strong> modeling.
+  🧬 Engaged in research related to <strong>Spatial Transcriptomic</strong>, <strong>Single-cell genomic</strong> and <strong>Electronic health record (EHR)</strong> modeling.
 </p>
 
 <p align="center">
