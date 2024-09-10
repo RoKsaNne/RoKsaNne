@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  🦋 1st year PhD student @BrownU in <strong>Computational Biology</strong>(CCMB) 
+  🦋 1st year PhD student <strong>@BrownU<\strong> in <strong>Computational Biology</strong>(CCMB) 
 </p>
 <p align="center">
-  🦋 Obtained an honors bachelor of <strong>Computer Science</strong> and a minor in <strong>Mathematics</strong> @McGill
+  🦋 Obtained an honors bachelor of <strong>Computer Science</strong> and a minor in <strong>Mathematics</strong> <strong>@McGill<\strong>
 </p>
 
 <p align="center">
-  🧬 Engaged in research related to <strong>Spatial Transcriptomic</strong>, <strong>Single-cell genomic</strong> and <strong>Electronic health record (EHR)</strong> modeling.
+  🧬 Engaged in research related to <strong>Spatial Transcriptomics</strong>, <strong>Single-cell genomic</strong> and <strong>Electronic health record (EHR)</strong> modeling.
 </p>
 
 <p align="center">
