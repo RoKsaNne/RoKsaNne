@@ -13,7 +13,7 @@
   🦋 1st year PhD student <strong>@BrownU</strong>strong> in <strong>Computational Biology</strong>(CCMB) 
 </p>
 <p align="center">
-  🦋 Obtained an honors bachelor of <strong>Computer Science</strong> and a minor in <strong>Mathematics @McGill<\strong>
+  🦋 Obtained an honors bachelor of <strong>Computer Science</strong> and a minor in <strong>Mathematics @McGill</strong>strong>
 </p>
 
 <p align="center">
