@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🦋 1st year PhD student <strong>@BrownU</strong>strong> in <strong>Computational Biology</strong>(CCMB) 
+  🦋 1st year PhD student <strong>@BrownU</strong> in <strong>Computational Biology</strong>(CCMB) 
 </p>
 <p align="center">
   🦋 Obtained an honors bachelor of <strong>Computer Science</strong> and a minor in <strong>Mathematics @McGill</strong>strong>
